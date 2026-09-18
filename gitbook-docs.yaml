@@ -1,0 +1,14 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+
+site:
+  title: Empresa Teste
+  structure:
+    - type: space
+      key: space-playbook
+      title: Playbook Operacional
+      path: playbook
+      default: true
+      content:
+        directory: ./
+        language: pt-br
