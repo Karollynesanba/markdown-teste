@@ -1,0 +1,14 @@
+# Sumário
+
+- [Playbook SDR](README.md)
+- [1. Objetivo do Playbook e o papel do SDR](objetivo-e-papel-do-sdr.md)
+- [2. Classificação de Leads por Faturamento](classificacao-de-leads.md)
+- [3. Fluxo de Qualificação via WhatsApp](qualificacao-whatsapp.md)
+- [4. Fluxo de Contato — LLM](fluxo-de-contato-llm.md)
+- [5. Timeline de Ativação no Dia da Reunião](ativacao-de-reunioes.md)
+- [6. Roteiro de Ligação](roteiro-de-ligacao.md)
+- [7. Contorno de Objeções](contorno-de-objecoes.md)
+- [8. Planilha de Controle](planilha-de-controle.md)
+- [9. Panorama Anual — Métricas & Indicadores](metricas-e-indicadores.md)
+- [10. Estrutura de Entrega](estrutura-de-entrega.md)
+- [11. Regras de Ouro do SDR](regras-de-ouro.md)

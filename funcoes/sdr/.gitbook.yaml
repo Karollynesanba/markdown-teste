@@ -1,2 +1,6 @@
 structure:
-  readme: playbook-sdr.md
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  playbook-sdr: README.md
