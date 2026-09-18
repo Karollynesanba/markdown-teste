@@ -1,17 +1,18 @@
 # Sumário
 
-- [Início](README.md)
-- Cargos
-  - [Head Operacional](cargos/head-operacional.md)
-  - [Gestor de Tráfego](cargos/gestor-de-trafego.md)
-  - [Social Media](cargos/social-media.md)
-- Processos
-  - [Onboarding de clientes](processos/onboarding-de-clientes.md)
-  - [Criação de campanhas](processos/criacao-de-campanhas.md)
-  - [Acompanhamento de clientes](processos/acompanhamento-de-clientes.md)
-- Ferramentas
-  - [CRM](ferramentas/crm.md)
-  - [Comunicação interna](ferramentas/comunicacao-interna.md)
-- Treinamentos
+- [GREAT | Playbook SDR](README.md)
+- Operação comercial
+  - [01 · Objetivo e papel do SDR](cargos/sdr.md)
+  - [02 · Classificação de leads](processos/classificacao-de-leads.md)
+  - [03 · Qualificação via WhatsApp](processos/qualificacao-whatsapp.md)
+  - [04 · Fluxo de contato LLM](processos/fluxo-de-contato.md)
+  - [05 · Ativação no dia da reunião](processos/ativacao-de-reunioes.md)
+  - [06 · Roteiro de ligação](roteiros/ligacao-inbound.md)
+  - [07 · Contorno de objeções](roteiros/contorno-de-objecoes.md)
+  - [08 · Planilha de controle](ferramentas/planilha-de-controle.md)
+  - [09 · Panorama anual](indicadores/panorama-anual.md)
+  - [10 · Estrutura de entrega](produtos/estrutura-de-entrega.md)
+  - [11 · Regras de ouro](treinamentos/regras-de-ouro.md)
+- Apoio à operação
+  - [Comandos e organização do CRM](ferramentas/crm.md)
   - [Primeiros passos](treinamentos/primeiros-passos.md)
-

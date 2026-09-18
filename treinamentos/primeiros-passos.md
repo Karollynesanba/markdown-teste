@@ -1,64 +1,49 @@
-# Primeiros passos
+# Primeiros passos do SDR
 
-[Início](../README.md) / Treinamentos / Primeiros passos
+[Início](../README.md) / Apoio à operação / Treinamento
 
 ## Objetivo
 
-Orientar a primeira semana de uma pessoa na Empresa Teste, combinando leitura, observação e prática supervisionada.
+Aprender a sequência operacional e praticar os registros antes de assumir atendimentos. Este roteiro de treinamento foi acrescentado na adaptação para Markdown; não é uma seção original do PDF.
 
-## Responsável pelo treinamento
+## Roteiro de leitura
 
-O **Head Operacional** acompanha a integração e define uma pessoa de referência para tirar dúvidas. Os exercícios usam exclusivamente clientes e dados fictícios.
+1. Entender o [papel do SDR](../cargos/sdr.md) e as [regras de ouro](regras-de-ouro.md).
+2. Estudar a [classificação de leads](../processos/classificacao-de-leads.md).
+3. Ler a [qualificação por WhatsApp](../processos/qualificacao-whatsapp.md) e o [fluxo LLM](../processos/fluxo-de-contato.md).
+4. Praticar [ligação](../roteiros/ligacao-inbound.md) e [objeções](../roteiros/contorno-de-objecoes.md).
+5. Conferir a [ativação de reuniões](../processos/ativacao-de-reunioes.md).
+6. Conhecer [CRM](../ferramentas/crm.md), [planilha](../ferramentas/planilha-de-controle.md) e [indicadores](../indicadores/panorama-anual.md).
+7. Revisar a [estrutura de entrega](../produtos/estrutura-de-entrega.md).
 
-## Roteiro da primeira semana
+## Exercício simulado
 
-| Dia | Atividade | Evidência de conclusão |
-| --- | --- | --- |
-| 1 | Conhecer a empresa e conferir acessos | Checklist de acessos revisado com o Head |
-| 2 | Ler a página do cargo e observar a rotina | Resumo das responsabilidades e dúvidas |
-| 3 | Estudar os processos e simular um onboarding | Cadastro fictício e briefing preenchidos |
-| 4 | Acompanhar uma revisão de campanha simulada | Checklist de revisão comentado |
-| 5 | Preparar uma atualização semanal fictícia | Relatório e plano de ação revisados |
+Use um lead fictício de clínica com faturamento de **R$ 50 mil a R$ 80 mil**.
 
-## Leituras essenciais
+1. Identifique classe, prioridade e prazo de contato.
+2. Simule duas ligações sem resposta e a mensagem seguinte.
+3. Ao receber resposta, qualifique sem perguntar novamente o faturamento.
+4. Registre que há sócio e confirme sua presença.
+5. Ofereça dois horários e simule o agendamento.
+6. Liste os materiais e os marcos de ativação.
+7. Preencha as seis etapas com dados simulados.
 
-1. Leia a [apresentação da Empresa Teste](../README.md).
-2. Consulte a página do seu cargo: [Head Operacional](../cargos/head-operacional.md), [Gestor de Tráfego](../cargos/gestor-de-trafego.md) ou [Social Media](../cargos/social-media.md).
-3. Estude o [Onboarding de clientes](../processos/onboarding-de-clientes.md).
-4. Entenda a [Criação de campanhas](../processos/criacao-de-campanhas.md) e o [Acompanhamento de clientes](../processos/acompanhamento-de-clientes.md).
-5. Revise as orientações do [CRM](../ferramentas/crm.md) e da [Comunicação interna](../ferramentas/comunicacao-interna.md).
-
-## Exercício prático
-
-Use o cliente fictício **Café Aurora**, que deseja divulgar seu serviço de coffee break para empresas.
-
-1. Monte um cadastro de exemplo com escopo, contato aprovador e próxima ação.
-2. Escreva cinco perguntas para complementar o briefing.
-3. Crie três tarefas de preparação de campanha, cada uma com responsável, prazo e critério de conclusão.
-4. Simule um bloqueio por falta de aprovação e redija a mensagem de comunicação interna.
-5. Prepare uma atualização semanal usando 20 leads e R$ 300 de investimento. O CPL esperado é **R$ 15**.
-6. Apresente as entregas ao Head Operacional e incorpore os ajustes recebidos.
-
-O exercício termina na revisão dos rascunhos; nenhuma campanha real precisa ser publicada.
+Não dispare automações nem mensagens reais durante o exercício.
 
 ## Critérios de conclusão
 
-- Explicar as responsabilidades do próprio cargo.
-- Localizar os processos e checklists sem ajuda.
-- Registrar uma tarefa completa e uma decisão no modelo do CRM.
-- Diferenciar revisão interna de aprovação do cliente.
-- Identificar quando e como comunicar um bloqueio.
+- Diferenciar classes e reconhecer limites a confirmar.
+- Identificar perguntas condicionais.
+- Localizar comandos, materiais e status.
+- Explicar a timeline e o encaminhamento de no-show.
+- Distinguir agendamento, comparecimento e vendas.
+- Identificar afirmações comerciais que exigem validação.
 
-## Checklist de integração
+## Checklist
 
-- [ ] Conhecer a equipe e a pessoa de referência.
-- [ ] Conferir os acessos necessários à função.
-- [ ] Concluir as leituras essenciais.
-- [ ] Observar um alinhamento operacional.
-- [ ] Entregar o exercício com dados fictícios.
-- [ ] Receber feedback e aplicar os ajustes.
-- [ ] Validar a conclusão do treinamento com o Head Operacional.
-
-## Próximo passo
-
-Após a validação, executar a primeira tarefa supervisionada e revisar dúvidas no alinhamento diário.
+- [ ] Concluir as leituras.
+- [ ] Localizar materiais com a pessoa responsável.
+- [ ] Conferir os atalhos configurados.
+- [ ] Realizar a simulação sem contato externo.
+- [ ] Revisar com a liderança.
+- [ ] Iniciar atendimentos acompanhados.

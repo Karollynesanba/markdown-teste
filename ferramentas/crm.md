@@ -1,68 +1,57 @@
-# CRM
+# Comandos e organização do CRM
 
-[Início](../README.md) / Ferramentas / CRM
+[Início](../README.md) / Apoio à operação / CRM
 
-## Visão geral
+## Objetivo
 
-O **Teste CRM** é a ferramenta fictícia que centraliza clientes, tarefas e histórico de decisões da Empresa Teste. Ele funciona como a referência operacional da equipe.
+Organizar os cards após cada interação e localizar os materiais de qualificação, agendamento e acompanhamento.
 
-## Estrutura do cadastro
+> Os atalhos e movimentações documentam a operação do PDF. Dependem da configuração real do CRM e não são implementados por este repositório.
 
-| Campo | Orientação | Exemplo fictício |
+## Classes e materiais
+
+Selecionar **Forms Classe A**, **Forms Classe B** ou **Forms Classe C**. Consulte os limites em [Classificação de leads](../processos/classificacao-de-leads.md).
+
+O PDF menciona os rótulos legados `FUDIDO` e `FAZEMOS` ao explicar o corte de R$ 20 mil. A sequência operacional usa Forms por classe; confirmar com a administração do CRM se esses rótulos ainda existem antes de utilizá-los.
+
+## Comandos e movimentações
+
+| Situação | Comando ou gatilho citado | Destino ou ação |
 | --- | --- | --- |
-| Nome do cliente | Usar o nome comercial | Café Aurora |
-| Responsável interno | Indicar quem coordena o atendimento | Head Operacional |
-| Contato aprovador | Informar nome e canal autorizado | Marina, canal do projeto |
-| Escopo | Resumir as entregas contratadas | Oito publicações e uma campanha mensal |
-| Etapa | Atualizar conforme a operação | Planejamento |
-| Próxima ação | Descrever a tarefa e seu prazo | Validar calendário até sexta-feira |
-| Pasta de materiais | Inserir link para a pasta do cliente | Pasta Café Aurora no Teste Drive |
+| Oferta de horário | `/passei horário` | Envia mensagem e move para **Passei Horário** |
+| Agendamento confirmado | “Agendado”, “Marcado” ou solicitação de Instagram | Move para **Agendado** |
+| Ausência na reunião | `/no show` | Move para **No Show** |
+| Não fechou | `/não fechou` | Move para **Não Fechou** |
+| Pagamento confirmado | `/pagou` | Move para **Pagou** |
+| Saiu da call sem pagar | `/negociação (nome do closer)` | Move para negociação do closer correspondente |
+| Confirmação pelo Calendly | `/calendly` | Envia mensagem e **Ficou Claro**; move para **Calendly** |
+| Sem capacidade de investimento | Material **Venda 10x** | Move para **Low Ticket**, conforme a automação |
 
-## Etapas do cliente
+A qualificação também menciona `/passei`. Confirmar o atalho ativo. No comando de negociação, substituir o campo pelo closer responsável conforme o padrão configurado.
 
-1. **Onboarding:** coleta de informações, acessos e briefing.
-2. **Planejamento:** definição e aprovação das primeiras entregas.
-3. **Em operação:** execução e acompanhamento recorrente.
-4. **Encerrado:** término do atendimento, com histórico e pendências documentados.
+## Calendly
 
-O campo separado **Situação** pode receber “Regular” ou “Em atenção”. Assim, um cliente continua em operação mesmo quando apresenta um risco a tratar.
+A mensagem descrita confirma o horário. Quando há sócio, confirma também sua presença; caso contrário, confirma apenas o horário pré-agendado. Conferir o envio e a movimentação do card.
 
-## Organização das tarefas
+## Biblioteca de materiais citados
 
-- **A fazer:** demanda registrada e ainda não iniciada.
-- **Em andamento:** execução iniciada pelo responsável.
-- **Aguardando aprovação:** material enviado ao aprovador.
-- **Bloqueada:** existe uma dependência que impede o avanço.
-- **Concluída:** entrega realizada e evidência registrada.
+- Forms Classe A, B e C.
+- Vídeo da Brenda.
+- Áudio **AGENDOU**.
+- **Como Faço**.
+- **Ativação 1 Hora**.
+- **Recorde de Faturamento**.
+- **Especialista**.
+- **Ficou Claro**.
+- **Venda 10x**.
 
-Toda tarefa deve conter **cliente, descrição, responsável, prazo e critério de conclusão**. Nas tarefas bloqueadas, incluir a dependência e a data da próxima cobrança.
+O PDF não inclui links ou conteúdo integral desses materiais. Localizá-los no CRM antes de executar os fluxos.
 
-## Como registrar uma interação
+## Checklist
 
-1. Abrir o cadastro do cliente.
-2. Informar data, participantes e assunto.
-3. Resumir as decisões sem copiar conversas desnecessárias.
-4. Anexar ou vincular a evidência de aprovação, quando aplicável.
-5. Criar tarefas para os próximos passos e definir responsáveis.
-
-**Exemplo fictício:** “18/09/2026 — Cliente aprovou a versão 2 dos anúncios e a verba total de R$ 1.500. Gestor de Tráfego deve configurar os rascunhos até 21/09/2026.”
-
-## Boas práticas
-
-- Atualizar o CRM no mesmo dia da decisão ou entrega.
-- Usar títulos claros, como “Café Aurora — Revisar anúncios de coffee break”.
-- Evitar registros duplicados e vincular tarefas ao cliente correto.
-- Não armazenar senhas, tokens ou dados pessoais desnecessários.
-- Marcar como concluída somente após atender ao critério de conclusão.
-
-## Checklist de atualização
-
-- [ ] Confirmar etapa e situação do cliente.
-- [ ] Revisar tarefas vencidas e bloqueadas.
-- [ ] Registrar decisões e suas evidências.
-- [ ] Confirmar responsável e prazo da próxima ação.
-
-## Leitura relacionada
-
-[Acompanhamento de clientes](../processos/acompanhamento-de-clientes.md)
-
+- [ ] Conferir lead e classe.
+- [ ] Usar o comando realmente configurado.
+- [ ] Conferir a movimentação do card.
+- [ ] Identificar o closer na negociação.
+- [ ] Confirmar pagamento antes de usar `/pagou`.
+- [ ] Manter a [planilha](planilha-de-controle.md) consistente com o CRM.

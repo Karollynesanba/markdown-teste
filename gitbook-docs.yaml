@@ -2,11 +2,11 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 version: 1
 
 site:
-  title: Empresa Teste
+  title: GREAT | Playbook SDR
   structure:
     - type: space
       key: space-playbook
-      title: Playbook Operacional
+      title: Playbook SDR
       path: playbook
       default: true
       content:
