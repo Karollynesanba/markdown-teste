@@ -2,7 +2,7 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 version: 1
 
 site:
-  title: GREAT | Documentação operacional
+  title: Great Docs
   structure:
     - type: section
       key: section-funcoes
