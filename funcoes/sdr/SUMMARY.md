@@ -1,3 +1,3 @@
 # Sumário
 
-- [SDR](SDR.md)
+- [Playbook SDR](SDR.md)

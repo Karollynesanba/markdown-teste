@@ -1,6 +1,4 @@
-# SDR
-
-## Playbook SDR
+# Playbook SDR
 
 > **Documento interno — GREAT Assessoria de Marketing para Clínicas**
 
@@ -28,7 +26,7 @@ Este documento une os três materiais de referência do SDR em um único guia: d
 10. Estrutura de Entrega (Produto)
 11. Regras de Ouro do SDR
 
-## 1. Objetivo do Playbook e o papel do SDR
+## Objetivo do Playbook e o papel do SDR
 
 Este playbook tem como finalidade padronizar e orientar toda a operação do SDR, desde o recebimento do lead no grupo de WhatsApp até o fechamento da venda. Com ele, o time comercial garante consistência, agilidade e máxima conversão em cada etapa do funil.
 
@@ -38,7 +36,7 @@ Este playbook tem como finalidade padronizar e orientar toda a operação do SDR
 - Monitorar taxas de agendamento, comparecimento e vendas
 - Garantir recontato diário e follow-up estruturado
 
-## 2. Classificação de Leads por Faturamento
+## Classificação de Leads por Faturamento
 
 Todo lead que chega no grupo de WhatsApp é classificado automaticamente em uma de três classes, com base no faturamento informado no formulário. Essa classificação define a prioridade de atendimento e a abordagem do SDR.
 
@@ -105,7 +103,7 @@ Todo lead que chega no grupo de WhatsApp é classificado automaticamente em uma 
 
 No roteiro de qualificação (seção 03), o corte de R$20K usado para disparar "FUDIDO" ou "FAZEMOS" no CRM corresponde exatamente ao limite entre a Classe B e a Classe A. Leads acima de R$20K (Classes A e C) são leads com os quais a GREAT trabalha; leads abaixo de R$20K (Classe B) exigem qualificação mais cuidadosa antes de agendar.
 
-## 3. Fluxo de Qualificação via WhatsApp
+## Fluxo de Qualificação via WhatsApp
 
 ### Inbound
 
@@ -243,7 +241,7 @@ Fluxo de organização dos cards no CRM após a interação com o lead.
 
    Lead que não puder investir: enviar o material (Venda 10x), disponível nas automações, para que o card seja movido automaticamente para a coluna Low Ticket.
 
-## 4. Fluxo de Contato — LLM
+## Fluxo de Contato — LLM
 
 ### Ligação → Ligação → Mensagem
 
@@ -261,7 +259,7 @@ Ao receber o lead no WhatsApp, o SDR segue o fluxo padrão de contato. O modelo 
 
    Após duas ligações sem resposta, enviar mensagem de apresentação no WhatsApp.
 
-## 5. Timeline de Ativação no Dia da Reunião
+## Timeline de Ativação no Dia da Reunião
 
 ### Início do dia
 
@@ -331,7 +329,7 @@ Ativação feita com todos os leads da agenda.
 
 Essas ativações foram adicionadas para que os leads agendados da tarde para a noite não fiquem muito tempo sem nutrição.
 
-## 6. Roteiro de Ligação
+## Roteiro de Ligação
 
 ### Inbound Call
 
@@ -375,7 +373,7 @@ Após entender qual é o principal gargalo da operação do lead, reforce os nos
 - Após o lead enviar o Instagram, concluir o agendamento com áudio (AGENDOU) e o vídeo da Brenda apresentando os serviços.
 - Jogar essas informações no CRM.
 
-## 7. Contorno de Objeções
+## Contorno de Objeções
 
 ### WhatsApp & Ligação
 
@@ -415,7 +413,7 @@ Após entender qual é o principal gargalo da operação do lead, reforce os nos
 
    Essa é a média que os nossos clientes já fazem hoje. Esses resultados são garantidos a partir do quarto mês.
 
-## 8. Planilha de Controle
+## Planilha de Controle
 
 ### 6 Etapas
 
@@ -436,7 +434,7 @@ Todas as planilhas que devem ser preenchidas pelo time comercial estão centrali
 
 [https://drive.google.com/drive/folders/15cwhiB-dV-vMxrVVmO9mflxxSH43WuWI](https://drive.google.com/drive/folders/15cwhiB-dV-vMxrVVmO9mflxxSH43WuWI)
 
-## 9. Panorama Anual — Métricas & Indicadores
+## Panorama Anual — Métricas e Indicadores
 
 O panorama anual consolida os dados de todos os meses, permitindo visualizar o desempenho da operação por classe de lead. As métricas abaixo são atualizadas automaticamente pela planilha.
 
@@ -458,7 +456,7 @@ O panorama anual consolida os dados de todos os meses, permitindo visualizar o d
 
 Classe A lidera em volume de agendamentos (52,79%), confirmando que a priorização dos leads com faturamento entre R$20k–R$100k resulta em melhores taxas de conversão no topo do funil.
 
-## 10. Estrutura de Entrega
+## Estrutura de Entrega
 
 ### Tráfego Pago
 
@@ -472,7 +470,7 @@ Vendedor da equipe GREAT, treinado em clínicas, que faz contato, qualificação
 
 Criação de artes estratégicas para anúncios que atraem clientes todos os dias e geram vendas constantes.
 
-## 11. Regras de Ouro do SDR
+## Regras de Ouro do SDR
 
 1. **Velocidade é tudo**
 
