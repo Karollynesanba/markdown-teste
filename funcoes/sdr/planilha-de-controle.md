@@ -6,7 +6,7 @@ A planilha de controle é o coração da operação. Cada coluna representa uma 
 
 | # | Coluna | Como preencher |
 | --- | --- | --- |
-| 1 | Atendeu? | **SIM** — o lead atendeu, siga para o roteiro de qualificação/agendamento. **NÃO** — o lead não atendeu, siga para a próxima tentativa do fluxo LLM. |
+| 1 | Atendeu? | **SIM** — o lead atendeu, siga para o roteiro de qualificação/agendamento. **NÃO** — o lead não atendeu, siga para a próxima tentativa do fluxo MLL. |
 | 2 | Mandou mensagem? | **SIM** — mensagem enviada conforme o template padrão. **NÃO** — mensagem ainda não enviada (preencher assim que enviar). |
 | 3 | Agendou? | **AGENDOU LIGAÇÃO** — agendamento confirmado por ligação. **AGENDOU MENSAGEM** — agendamento confirmado por mensagem. Em aberto — lead ainda não agendou, manter em recontato ativo. |
 | 4 | Recontato | **FEITO** — recontato do dia realizado. Em aberto — recontato ainda não realizado hoje (priorizar antes do fim do dia). |

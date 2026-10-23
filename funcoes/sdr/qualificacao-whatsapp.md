@@ -2,136 +2,98 @@
 
 ## Inbound
 
-1. **Disparar Forms de acordo com o faturamento**
+O lead chegará do formulário e automaticamente o DataCrazy dispara um template inicial para que a janela de conversa abra.
 
-   - Forms Classe A — de R$20 mil a R$100 mil
-   - Forms Classe B — de R$0 a R$20 mil
-   - Forms Classe C — R$100 mil ou mais
+Após a resposta do lead, a janela de conversa abre com duração de 24 horas. Então, a qualificação inicia.
 
-   Disparar material Forms presente no CRM.
+**Caso o lead não responda, disparar template de recontato.**
 
-2. **Qual é o seu faturamento mensal?**
+**O SDR que for entrar em contato com o lead deve movê-lo para o seu departamento.**
 
-   > ⚠ Se vier do formulário, o dado já está no CRM — não pergunte novamente. Pergunte só se não veio do formulário.
+1. **Disparar mensagem rápida (/forms)**
 
-   **ABAIXO DE R$20K → DISPARAR FORMS CLASSE B · ACIMA DE R$20K A R$100K → DISPARAR FORMS CLASSE A · ACIMA DE R$100K → DISPARAR FORMS CLASSE C**
+   Com o propósito de descobrir se o lead tem empresa de marketing.
 
-3. **Você já trabalha com alguma empresa de marketing? Se sim, consegue sair do contrato e iniciar com outra de imediato?**
+   Se sim: disparar (/6) perguntando se pode sair de imediato e iniciar com outra empresa.
 
-   Início imediato é condição essencial. Entender o modelo do contrato atual é obrigatório antes de avançar.
+2. **Disparar mensagem rápida (/ficou claro)**
 
-4. **Você tem sócio, marido, esposa ou outra pessoa que participa das decisões?**
+   Explicando os serviços.
 
-   Todos os tomadores de decisão devem estar presentes na reunião com o especialista.
+3. **Verificar o faturamento no Forms para tomar o próximo passo.**
 
-5. **Você conseguiria investir de R$2.000 a R$3.000 para ter de 4 a 5 agendamentos por dia?**
+   **Menor que R$20K:** disparar mensagem rápida (/5) perguntando se pode investir.
 
-   **CONDICIONAL — APENAS PARA FATURAMENTO ABAIXO DE R$20K**
+   **Maior que R$20K:** disparar mensagem rápida (/4) perguntando se tem sócio.
 
-6. **Como funciona o seu contrato com essa empresa de marketing? Consegue iniciar com outra de imediato?**
+4. **Marcar reunião**
 
-   Usar somente se o cliente mencionou empresa de marketing, mas não respondeu isso no passo 3. **CONDICIONAL — CLIENTE MENCIONOU EMPRESA DE MARKETING**
+   Disparar mensagem rápida (/7) marcando a call como líder.
 
-7. **✅ Agendamento — usar a tecla `/passei horário`**
+5. **Passar dois horários disponíveis na agenda para todos os tomadores de decisão presentes.**
 
-   Escolha o horário do agendamento com o lead e use o comando `/passei` no CRM — o card é movido automaticamente para a coluna "Passei Horário". Ofereça sempre 2 horários, limitando as opções. Reafirme que todos os tomadores de decisão devem estar presentes.
-
-8. **Palavras-chave de agendamento**
-
-   Após o lead escolher o horário, fique atento às seguintes palavras-chave na conversa: "Agendado", "Marcado", "Me envie o Instagram da clínica" ou "Me envie o Instagram do profissional". Ao identificar qualquer uma delas, o card é movido automaticamente para a coluna Agendado.
-
-   **(Obrigatório pedir o Instagram do lead sempre que ele for agendado.)**
-
-9. **Enviar o vídeo da Brenda**
-
-   Enviar o vídeo da Brenda explicando os serviços da GREAT para o lead.
+6. **Com a confirmação de horário, disparar mensagem rápida (/agendado-áudio).**
 
 ## Fluxo de Qualificação — Variante de Abordagem
 
 Use esta variante como alternativa diagnóstica à Qualificação 1 — mesma lógica de fundo, abertura diferente.
 
-1. **Disparar Forms de acordo com o faturamento**
+1. **Disparar mensagem rápida (/forms)**
 
-   - Forms Classe A — de R$20 mil a R$100 mil
-   - Forms Classe B — de R$0 a R$20 mil
-   - Forms Classe C — R$100 mil ou mais
+   Com o propósito de descobrir se o lead tem empresa de marketing.
 
-   Disparar material Forms presente no CRM.
+   Se sim: disparar (/6) perguntando se pode sair de imediato e iniciar com outra empresa.
 
-2. **Qual é o seu faturamento mensal?**
+2. **Disparar mensagem rápida (/ficou claro)**
 
-   Mesma lógica da Qualificação 1: perguntar somente se não veio do formulário.
+   Explicando os serviços.
 
-   **ABAIXO DE R$20K → DISPARAR FORMS CLASSE B · ACIMA DE R$20K A R$100K → DISPARAR FORMS CLASSE A · ACIMA DE R$100K → DISPARAR FORMS CLASSE C**
+3. **Verificar o faturamento no Forms para tomar o próximo passo.**
 
-3. **Você já trabalha com alguma empresa de marketing? Se sim, consegue sair do contrato e iniciar com outra de imediato?**
+   **Menor que R$20K:** disparar mensagem rápida (/5) perguntando se pode investir.
 
-   Início imediato é condição essencial para avançar no processo.
+   **Maior que R$20K:** disparar mensagem rápida (/4) perguntando se tem sócio.
 
-4. **Você tem sócio, marido, esposa ou outra pessoa que participa das decisões?**
+4. **Marcar reunião**
 
-   Todos os decisores devem estar na reunião. Confirmar antes de agendar.
+   Disparar mensagem rápida (/7) marcando a call como líder.
 
-5. **Você conseguiria investir de R$2.000 a R$3.000 para ter de 4 a 5 agendamentos por dia?**
+5. **Passar dois horários disponíveis na agenda para todos os tomadores de decisão presentes.**
 
-   **CONDICIONAL — APENAS PARA FATURAMENTO ABAIXO DE R$20K**
+6. **Com a confirmação de horário, disparar mensagem rápida (/agendado-áudio).**
 
-6. **Como funciona o seu contrato com essa empresa de marketing? Consegue iniciar com outra de imediato?**
-
-   **CONDICIONAL — CLIENTE MENCIONOU EMPRESA DE MARKETING SEM RESPONDER NO PASSO 3**
-
-7. **✅ Agendamento — usar a tecla `/passei horário`**
-
-   Escolha o horário do agendamento com o lead e use o comando `/passei` no CRM — o card é movido automaticamente para a coluna "Passei Horário". Ofereça 2 horários. Reafirme a presença de todos os decisores.
-
-8. **Palavras-chave de agendamento**
-
-   Após o lead escolher o horário, fique atento às seguintes palavras-chave na conversa: "Agendado", "Marcado", "Me envie o Instagram da clínica" ou "Me envie o Instagram do profissional". Ao identificar qualquer uma delas, o card é movido automaticamente para a coluna Agendado.
-
-   **(Obrigatório pedir o Instagram do lead sempre que ele for agendado.)**
-
-9. **Enviar o vídeo da Brenda**
-
-   Enviar o vídeo da Brenda explicando os serviços da GREAT para o lead.
-
-## Organização de CRM
+## Organização de CRM (DataCrazy)
 
 Fluxo de organização dos cards no CRM após a interação com o lead.
 
-1. **Classes**
+1. **Calendly**
 
-   - Forms Classe A — Faturamento de R$20 mil a R$100 mil
-   - Forms Classe B — Faturamento de R$0 a R$20 mil
-   - Forms Classe C — Faturamento de R$100 mil a R$1 milhão
+   Usar o comando /calendly para mover o lead para o funil Calendly.
 
-   O material está no CRM para ser disparado.
+2. **Low Ticket**
 
-2. **Passei Horário**
+   Usar o comando /low ticket para mover o lead para o funil Low Ticket.
 
-   Usar o comando `/passei horário` — dispara a mensagem e move automaticamente o card para a coluna Passei Horário.
+3. **Passei Horário**
 
-3. **Agendamento**
+   Usar o comando /passei horário para mover o lead para o funil Passei Horário.
 
-   Após o agendamento, se o lead der no-show, usar o comando `/no show` para que o card seja movido automaticamente para a coluna No Show.
+4. **Agendado**
 
-4. **Não Fechou**
+   Usar o comando /agendado-áudio para mover o lead para o funil Agendado.
 
-   Usar o comando `/não fechou` para que o card seja movido automaticamente para a coluna Não Fechou.
+5. **No Show**
 
-5. **Pagamento**
+   Usar o comando /no show para mover o lead para o funil No Show.
 
-   Após o cliente pagar, usar o comando `/pagou` para que o card seja movido automaticamente para a coluna Pagou.
+6. **Pagou**
 
-6. **Negociação**
+   Usar o comando /pagou para mover o lead para o funil Pagou.
 
-   Cliente que saiu da call e não pagou: usar o comando `/negociação (nome do closer)` — com o nome do closer correspondente — para que o card seja movido automaticamente para a coluna de Negociação daquele closer.
+7. **Não Fechou**
 
-7. **Calendly**
+   Usar o comando /não fechou para mover o lead para o funil Não Fechou.
 
-   Usar o comando `/calendly` — envia automaticamente uma mensagem pronta, junto com o material (Ficou Claro).
+8. **Negociação**
 
-   A mensagem de agendamento do Calendly informa o horário e confirma a reunião. Se o lead tiver sócio, confirma a presença do sócio também; caso contrário, confirma apenas o horário da reunião pré-agendada. Ao final, o card é movido para a coluna Calendly.
-
-8. **Low Ticket**
-
-   Lead que não puder investir: enviar o material (Venda 10x), disponível nas automações, para que o card seja movido automaticamente para a coluna Low Ticket.
+   Usar o comando /negociação (nome do closer) para mover o lead para a negociação do closer.

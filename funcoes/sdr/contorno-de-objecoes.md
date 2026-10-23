@@ -20,7 +20,7 @@
 
 5. **"Tem período de teste? Como funciona o pagamento?"**
 
-   Nosso menor plano já equivale a 1 mês de serviço. O pagamento é prévio, realizado no início do contrato.
+   Hoje não temos período de teste. Nossos planos são bem personalizados — essa parte é tratada pelo especialista na reunião.
 
 6. **"Qual a taxa de conversão do vendedor de vocês?"**
 

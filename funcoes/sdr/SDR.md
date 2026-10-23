@@ -10,20 +10,20 @@ Classificação de leads · Qualificação · Ativação · Roteiro de ligação
 
 [greatassessoria.com.br](https://greatassessoria.com.br) · **USO INTERNO — NÃO COMPARTILHAR**
 
-**Sumário**
+## Sumário
 
 Este documento une os três materiais de referência do SDR em um único guia: da classificação do lead que chega no WhatsApp até o fechamento da venda. Use-o como consulta rápida — a ordem das seções segue a ordem real da operação.
 
-1. Objetivo do Playbook e o papel do SDR
-2. Classificação de Leads por Faturamento (A · B · C)
-3. Fluxo de Qualificação via WhatsApp (Qualificação 1 e 2)
-4. Fluxo de Contato — LLM (Ligação · Ligação · Mensagem)
-5. Timeline de Ativação no Dia da Reunião
-6. Roteiro de Ligação (Inbound Call)
-7. Contorno de Objeções
-8. Planilha de Controle — 6 Etapas
-9. Panorama Anual — Métricas & Indicadores
-10. Estrutura de Entrega (Produto)
+1. Entendendo os Serviços da GREAT
+2. Objetivo do Playbook e o papel do SDR
+3. Classificação de Leads por Faturamento (A · B · C)
+4. Fluxo de Qualificação via WhatsApp (Qualificação 1 e 2)
+5. Fluxo de Contato — MLL (Mensagem · Ligação · Ligação)
+6. Timeline de Ativação no Dia da Reunião
+7. Roteiro de Ligação (Inbound Call)
+8. Contorno de Objeções
+9. Planilha de Controle — 6 Etapas
+10. Panorama Anual — Métricas & Indicadores
 11. Regras de Ouro do SDR
 
 ## Objetivo do Playbook e o papel do SDR

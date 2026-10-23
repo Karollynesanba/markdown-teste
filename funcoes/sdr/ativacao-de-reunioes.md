@@ -16,7 +16,7 @@ Mensagem de geração de curiosidade e valor antes da reunião.
 
 ## 1 hora antes
 
-**Padrão: LLM (Ligação → Ligação → Mensagem)**
+**Padrão: MLL (Mensagem → Ligação → Ligação)**
 
 Ligar para o lead 1 hora antes da reunião.
 

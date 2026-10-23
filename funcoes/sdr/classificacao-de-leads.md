@@ -60,7 +60,3 @@ Todo lead que chega no grupo de WhatsApp é classificado automaticamente em uma 
 **Exemplo de notificação no WhatsApp — Classe C**
 
 > NOVO LEAD RECEBIDO · Nome: Osvaldo · Telefone: (XX) XXXXX-XXXX · Faturamento: R$ 100 mil até R$ 150 mil · Criativo: 03 ADS/EVENTO - CAMPEÃO
-
-## Como isso conversa com a qualificação por ligação (próxima seção)
-
-No roteiro de qualificação (seção 03), o corte de R$20K usado para disparar "FUDIDO" ou "FAZEMOS" no CRM corresponde exatamente ao limite entre a Classe B e a Classe A. Leads acima de R$20K (Classes A e C) são leads com os quais a GREAT trabalha; leads abaixo de R$20K (Classe B) exigem qualificação mais cuidadosa antes de agendar.
